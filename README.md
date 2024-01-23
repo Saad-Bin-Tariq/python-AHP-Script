@@ -60,7 +60,7 @@ Ensure the following Python libraries are installed:
 
 ## Files
 
-- **AHP_Raster_Visualization.py:** Python script containing the code.
+- **GeoSpatial Analysis - AHP Script:** Python script containing the code.
 - **Sample Data:** Sample raster files for testing.
 - **Working Demo - Pdf:** Screen shots of how to use the script
 ## Outputs
